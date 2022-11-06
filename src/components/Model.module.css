@@ -1,0 +1,16 @@
+/* .container {
+  background-image: url(./img/model.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+} */
+.itemImg {
+  opacity: 80%;
+  position: absolute;
+  top: 25%;
+  left: 32rem;
+  width: 270px;
+}
+.item {
+  position: relative;
+}
