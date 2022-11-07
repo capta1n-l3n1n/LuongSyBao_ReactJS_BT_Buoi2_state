@@ -14,3 +14,11 @@
 .item {
   position: relative;
 }
+.title {
+  background-color: rgba(205, 134, 63, 0.5);
+  position: absolute;
+  width: 480px;
+  left: 25.5rem;
+  bottom: 0;
+  padding: 2.5rem 1rem;
+}
